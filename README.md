@@ -8,7 +8,7 @@ Some screenshots of web app are as follows. Before user logs in, the website sho
 1. Login page:
 ![ScreenShot](https://raw.github.com/ShiyiHuo/CSC370Project--Subsaiddit/master/pic1.jpg)
 
-2. Main page:
+2. Welcome page:
 ![ScreenShot](https://raw.github.com/ShiyiHuo/CSC370Project--Subsaiddit/master/pic3.jpg)
 
 3. User's favourite posts:
